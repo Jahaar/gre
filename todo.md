@@ -7,6 +7,7 @@
 - [ ] Fix all links that have [text](#) or [text](link)
 - [ ] fix search for plurals (lunr matches the singular, but then we can't highlight in the snippet)
 - [ ] consider finding places in search (not just gardens)
+- Can we show progress in number of gardens in each place?  ("23 out of 35 known gardens have been published)
 
 # Pompeii Notes/Issues
 
@@ -26,7 +27,6 @@
 - [ ] link to reuse/take-down policy in image captions
 - [ ] generally improve the search
 
-
 # Cleanup
 
 - set permissions on image repo to prevent deletion, modification?
@@ -43,12 +43,6 @@
 - [ ] fix or remove empty links -- search for "(#)"
 - [ ] update Leaflet from 1.6 to 1.9.4
 - [ ] cleanup double/triple spaces (skip arabia-petragarden!) AFTER we have cleaned up spaces from image filenames
-
-
-
-
-
-
 
 # from 2025-03-04, 2025-04-04, 2025-05-06, 2025-06-11 meetings
 
@@ -83,7 +77,6 @@
     - [ ] ideally, don't depend on upper/lowercase for meaning
 - [ ] rewrite software setup
 - [ ] workflow for simplest way to add a new garden/place? ("hugo new" requires path, but will set the GRE_ID, etc.)
-
 
 # Article Guidelines
 
@@ -140,7 +133,6 @@
 - what is green highlighting for???
     - Example: https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/insula_ix/house_5/house_of_the_fruit_orchard/
 - add area editors to province pages?
-
 
 # User forks
 

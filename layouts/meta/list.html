@@ -8,7 +8,7 @@
     </ul>
 
 
-    {{ $pages := sort (where .Site.RegularPages "Type" "place") "Path" }}
+    {{ $pages := sort (where .Site.Pages "Type" "place") "Path" }}
     <h1 id="places">All places ({{ $pages.Len }})</h1>
     <table class="meta" id="metaplace">
         <tr>
@@ -27,7 +27,7 @@
             {{ end }}
             <tr class="{{ $draft }}">
                 <td>{{ add 1 $i }}</td>
-                <td class="path"><a href="{{ $v.Path }}">{{ $v.Path }}</a></td>
+                <td class="path"><a href="{{ urls.JoinPath site.BaseURL $v.Path }}">{{ $v.Path }}</a></td>
                 <td class="title">{{ $v.Title }}
                     {{ if $draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
@@ -56,9 +56,10 @@
             {{ if $v.Draft}}
                 {{ $draft = "draft"}}
             {{ end }}
+            
             <tr class="{{ $draft }}">
                 <td>{{ add 1 $i }}</td>
-                <td class="path"><a href="{{ $v.Path }}">{{ $v.Path }}</a></td>
+                <td class="path"><a href="{{ urls.JoinPath site.BaseURL $v.Path }}">{{ $v.Path }}</a></td>
                 <td class="title">{{ $v.Title }}
                     {{ if $draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
