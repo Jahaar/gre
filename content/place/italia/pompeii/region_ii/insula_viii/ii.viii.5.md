@@ -51,7 +51,7 @@ B. Another small garden was found to the rear of the [caupona](http://vocab.gett
 
 <!-- ## Plans
 
-{{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}} -->
+{{< image file="fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}} -->
 
 ## Places
 

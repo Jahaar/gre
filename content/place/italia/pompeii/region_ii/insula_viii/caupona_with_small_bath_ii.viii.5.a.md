@@ -43,7 +43,7 @@ A. A very small bath was located at the left rear of the atrium in this unusual 
 
 ## Plans
 
-{{< image file="../../fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}}
+{{< image file="fig._62,_plan_of_region_ii,_insula_viii.png" caption="Fig. 62, Plan of Region II, insula viii" credit="" alt="" >}}
 
 ## Places
 

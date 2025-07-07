@@ -115,7 +115,7 @@
 
 - People names -- when to include middle initial?
 - People links/pages for everyone, or just prominent contributors?
-- keywords like lucus, stagnum, textrina that are not proper AAT terms
+- keywords like lucus, nemus (recode as keyword "groves"?), oscilla, stagnum, textrina that are not proper AAT terms
 - "literary gardens" keyword okay, but do we really need "archaeological gardens"? (currently commented out in the relatively few articles that have it, but nearly all the gardens are arch.)
 - exedrae (AAT, indoor vs outdoor)
 - linking words within paragraphs -- is this necessary?  too much?  consistent?
@@ -131,6 +131,7 @@
 - standardize and document recommendations for entry titles
     - House name, or house number, or both?
     - Roman or Arabic numerals? for region, insula, house (e.g. Pompeii VIII.4.30 vs VIII.iv.30)
+- inline citations -- currently "(ALL CAPS 1895)" etc
 
 
 # User forks

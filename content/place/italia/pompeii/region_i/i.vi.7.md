@@ -39,6 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 - {{< keyword "pillars" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "gutters" >}}
+- {{< keyword "fulling mills" >}}
 
 ## Garden
 
