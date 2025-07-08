@@ -14,8 +14,9 @@ aicha.malek@ens.fr
 ## Website
 https://www.archeo.ens.fr/Malek-Amina-Aicha.html
 
-{{< id vocab="ORCID" id="0000-0002-1628-615X" >}}
+## Linked IDs
 
-{{< id vocab="WorldCat" id="E39PBJv8CFc7mdbWrDBjtVPfbd" >}}
+- {{< id vocab="ORCID" id="0000-0002-1628-615X" name="AMINA-AICHA MALEK" >}}
+- {{< id vocab="WorldCat" id="E39PBJv8CFc7mdbWrDBjtVPfbd" name="Amina-Aïcha Malek" >}}
 
 <!-- Description -->
