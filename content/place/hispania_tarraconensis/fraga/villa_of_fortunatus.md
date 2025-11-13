@@ -5,9 +5,9 @@ type: garden
 title: Villa of Fortunatus
 latlon: [ 0, 0 ]
 author:
-contributor: Qianli Jiang
+contributor: Qianli Jiang, Waldemar Barrios
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-11-11
 draft: true
 ---
 
